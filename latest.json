@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.0/meshi-1.0.apk",
-  "notes": "Первый релиз"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.0.1/meshi-1.0.1.apk",
+  "notes": "В Настройках теперь видно версию приложения. Исправлена ошибка дублирования собственных блюд при обновлении контента. Добавлено окно \"Что нового\" после обновления."
 }

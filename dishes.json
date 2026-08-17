@@ -32,7 +32,7 @@
       { "name": "Перец чёрный молотый", "amount": 2, "unit": "г", "category": "Бакалея" },
       { "name": "Укроп", "amount": 15, "unit": "г", "category": "Овощи" }
     ],
-    "photo": "syrnyy-sup-s-kuritsey.jpg"
+    "photo": "syrnyy-sup-s-kuritsey.webp"
   },
   {
     "seed_key": "tiramisu-klassicheskiy",

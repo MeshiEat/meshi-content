@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.0.2/meshi-1.0.2.apk",
-  "notes": "Скрыта системная панель навигации на устройствах с кнопками. Переделаны окно и плашка предложения обновиться. Мелкие исправления интерфейса.",
-  "sha256": "e15838ce07a75be4eb5bd25427bb63244889a00ece3aaeea841e64bda8372055"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.0.3/meshi-1.0.3.apk",
+  "notes": "Резервные копии Android больше не могут вытащить данные приложения без вашего ведома. Обновления приложения теперь проверяются по контрольной сумме перед установкой.",
+  "sha256": "0a13219be305f019091bd3197b61d5d38942b10fe50fb36262b7b1bfe1913c35"
 }

@@ -22,17 +22,53 @@
     ],
     "ingredients": [
       { "name": "Куриное филе", "amount": 400, "unit": "г", "category": "Мясо" },
-      { "name": "Сыр плавленый", "amount": 200, "unit": "г", "category": "Молочное" },
+      { "name": "Сыр плавленый", "amount": 200, "unit": "г", "category": "Молочное", "translations": { "en": "Processed cheese", "ja": "プロセスチーズ" } },
       { "name": "Картофель", "amount": 500, "unit": "г", "category": "Овощи" },
       { "name": "Морковь", "amount": 100, "unit": "г", "category": "Овощи" },
       { "name": "Лук репчатый", "amount": 100, "unit": "г", "category": "Овощи" },
       { "name": "Чеснок", "amount": 2, "unit": "шт", "category": "Овощи" },
       { "name": "Растительное масло", "amount": 30, "unit": "мл", "category": "Бакалея" },
       { "name": "Соль", "amount": 5, "unit": "г", "category": "Бакалея" },
-      { "name": "Перец чёрный молотый", "amount": 2, "unit": "г", "category": "Бакалея" },
+      { "name": "Перец чёрный молотый", "amount": 2, "unit": "г", "category": "Бакалея", "translations": { "en": "Ground black pepper", "ja": "黒こしょう" } },
       { "name": "Укроп", "amount": 15, "unit": "г", "category": "Овощи" }
     ],
-    "photo": "syrnyy-sup-s-kuritsey.webp"
+    "photo": "syrnyy-sup-s-kuritsey.webp",
+    "translations": {
+      "en": {
+        "name": "Cheese Soup with Chicken",
+        "cuisine": "Russian",
+        "steps": [
+          "Rinse the chicken breast, cover with 2 liters of cold water, bring to a boil over high heat, skimming off the foam",
+          "Reduce the heat to low, salt the broth and cook the breast 20-25 minutes until fully done",
+          "Remove the cooked breast onto a plate to cool, strain the broth and return it to the stove over low heat",
+          "Peel the potatoes, cut into small cubes and add to the simmering broth",
+          "Peel the carrot and grate it coarsely, finely chop the onion",
+          "Heat vegetable oil in a skillet, sauté the onion over medium heat until translucent (3-4 minutes), add the carrot and fry 3-4 more minutes, stirring",
+          "10 minutes after adding the potatoes (once they're nearly done), add the sautéed onion and carrot to the pot",
+          "Cut the cooled chicken breast into small pieces and return it to the soup",
+          "Cut the processed cheese into cubes, add to the soup in small batches, stirring constantly so the cheese fully dissolves without clumping at the bottom",
+          "Press the garlic through a garlic press, add to the soup, salt and pepper to taste, cook 5 more minutes over low heat without letting it boil hard",
+          "Remove from heat, let stand covered for 5-10 minutes, sprinkle with fresh chopped herbs before serving"
+        ]
+      },
+      "ja": {
+        "name": "チキンチーズスープ",
+        "cuisine": "ロシア料理",
+        "steps": [
+          "鶏胸肉を洗い、冷水2リットルを加えて強火にかけ、沸騰させながらアクを取る",
+          "弱火にしてスープに塩を加え、鶏肉に完全に火が通るまで20〜25分煮る",
+          "煮えた鶏肉を皿に取り出して冷まし、スープを漉して弱火で鍋に戻す",
+          "じゃがいもの皮をむき小さく角切りにして煮立ったスープに加える",
+          "にんじんの皮をむき粗くすりおろし、玉ねぎをみじん切りにする",
+          "フライパンに植物油を熱し、玉ねぎを中火で透き通るまで3〜4分炒め、にんじんを加えさらに3〜4分炒める",
+          "じゃがいもを加えてから10分後(ほぼ火が通った頃)、炒めた玉ねぎとにんじんを鍋に加える",
+          "冷ました鶏肉を小さく切ってスープに戻す",
+          "プロセスチーズを角切りにし、絶えずかき混ぜながら少しずつスープに加え、底で固まらず完全に溶けるようにする",
+          "にんにくをすりつぶしてスープに加え、塩胡椒で味を調え、強く沸騰させないよう弱火でさらに5分煮る",
+          "火を止め、ふたをして5〜10分置き、盛り付け時に刻んだ生ハーブを散らす"
+        ]
+      }
+    }
   },
   {
     "seed_key": "tiramisu-klassicheskiy",
@@ -55,14 +91,50 @@
       "Перед подачей обильно и равномерно посыпать поверхность какао-порошком через мелкое сито"
     ],
     "ingredients": [
-      { "name": "Печенье савоярди", "amount": 200, "unit": "г", "category": "Бакалея" },
-      { "name": "Сыр маскарпоне", "amount": 500, "unit": "г", "category": "Молочное" },
+      { "name": "Печенье савоярди", "amount": 200, "unit": "г", "category": "Бакалея", "translations": { "en": "Ladyfinger biscuits", "ja": "サヴォイアルディ" } },
+      { "name": "Сыр маскарпоне", "amount": 500, "unit": "г", "category": "Молочное", "translations": { "en": "Mascarpone cheese", "ja": "マスカルポーネ" } },
       { "name": "Яйца", "amount": 4, "unit": "шт", "category": "Бакалея" },
       { "name": "Сахар", "amount": 150, "unit": "г", "category": "Бакалея" },
-      { "name": "Кофе растворимый", "amount": 20, "unit": "г", "category": "Бакалея" },
-      { "name": "Вода", "amount": 300, "unit": "мл", "category": "Бакалея" },
-      { "name": "Какао-порошок", "amount": 20, "unit": "г", "category": "Бакалея" }
+      { "name": "Кофе растворимый", "amount": 20, "unit": "г", "category": "Бакалея", "translations": { "en": "Instant coffee", "ja": "インスタントコーヒー" } },
+      { "name": "Вода", "amount": 300, "unit": "мл", "category": "Бакалея", "translations": { "en": "Water", "ja": "水" } },
+      { "name": "Какао-порошок", "amount": 20, "unit": "г", "category": "Бакалея", "translations": { "en": "Cocoa powder", "ja": "ココアパウダー" } }
     ],
-    "photo": "tiramisu-klassicheskiy.jpg"
+    "photo": "tiramisu-klassicheskiy.jpg",
+    "translations": {
+      "en": {
+        "name": "Classic Tiramisu",
+        "cuisine": "Italian",
+        "steps": [
+          "Brew strong coffee (or dissolve instant coffee in 300 ml of hot water), pour into a wide plate and let cool completely to room temperature",
+          "Carefully separate the eggs into whites and yolks, each into its own dry, clean bowl",
+          "Beat the yolks with a mixer with half the sugar (75 g) for 3-4 minutes until pale, increased in volume, and the sugar is fully dissolved",
+          "Add the mascarpone to the yolks and gently mix with a whisk until smooth — don't use the mixer at this step or the cream will separate",
+          "Beat the whites with a mixer with the remaining sugar (75 g) to firm, stable peaks — the mixture should hold its shape and not fall out of an upturned bowl",
+          "Fold the beaten whites into the cheese mixture in three additions, each time gently folding with a spatula from bottom to top to keep the cream airy",
+          "Quickly dip each ladyfinger into the cooled coffee on both sides (1-2 seconds per side — the biscuit shouldn't get soaked through) and arrange in a tight layer on the bottom of the dish",
+          "Spread half of the cream evenly on top, smoothing with a spatula",
+          "Add a second layer of ladyfingers dipped the same way, spread the remaining cream on top and smooth again",
+          "Cover the dish with plastic wrap and refrigerate for at least 4-6 hours, ideally overnight — the cream needs to fully set",
+          "Before serving, generously and evenly dust the surface with cocoa powder through a fine sieve"
+        ]
+      },
+      "ja": {
+        "name": "クラシックティラミス",
+        "cuisine": "イタリア料理",
+        "steps": [
+          "濃いコーヒーを淹れる(またはインスタントコーヒーを熱湯300mlに溶かす)、広い皿に移し室温まで完全に冷ます",
+          "卵を白身と黄身に分け、それぞれ乾いた清潔なボウルに入れる",
+          "黄身に砂糖の半量(75g)を加え、色が明るくなり量が増えて砂糖が完全に溶けるまで3〜4分泡立てる",
+          "黄身にマスカルポーネを加え、泡立て器で滑らかになるまで優しく混ぜる — この工程でミキサーを使うとクリームが分離するので使わない",
+          "白身に残りの砂糖(75g)を加え、しっかりとした角が立つまで泡立てる — ボウルを逆さにしても落ちない固さにする",
+          "泡立てた白身をチーズ生地に3回に分けて加え、その都度へらで下から上へ優しく混ぜ、クリームの軽さを保つ",
+          "サヴォイアルディを1枚ずつ冷めたコーヒーに両面素早くくぐらせ(片面1〜2秒 — ふやけすぎないように)、型の底に隙間なく並べる",
+          "クリームの半量を上に均等に広げ、へらでならす",
+          "同じ方法でコーヒーに浸した2層目のビスケットを並べ、残りのクリームを広げて再びならす",
+          "型にラップをかけ、冷蔵庫で最低4〜6時間、できれば一晩冷やしてクリームをしっかり固める",
+          "盛り付け前に、目の細かい茶こしでココアパウダーを表面全体にたっぷりと均一にふる"
+        ]
+      }
+    }
   }
 ]

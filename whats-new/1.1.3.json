@@ -1,0 +1,5 @@
+{
+  "ru": "• Синхронизация между устройствами семьи стала почти мгновенной\n• Push-уведомления о семейных событиях теперь реально приходят\n• Экран «Моя семья» обновляется сам, без перезахода\n• Исправлена пустота на экране после долгого сворачивания приложения\n• Этот экран теперь всегда показывает актуальные изменения (раньше текст не обновлялся с версии 1.0.3)",
+  "en": "• Sync between family devices is now near-instant\n• Push notifications about family events actually arrive now\n• The Household screen refreshes itself, no need to re-enter\n• Fixed a blank screen after the app had been backgrounded for a while\n• This screen now always shows the current changes (it used to be stuck on 1.0.3's text)",
+  "ja": "・家族間の同期がほぼ即時になりました\n・家族の出来事に関するプッシュ通知が実際に届くようになりました\n・「家族」画面は開いている間自動的に更新されます\n・アプリを長時間バックグラウンドにしていた後に画面が空白になる問題を修正しました\n・この画面は常に最新の変更点を表示するようになりました（以前はバージョン1.0.3のテキストのままでした）"
+}

@@ -1,0 +1,5 @@
+{
+  "ru": "• Исправлена потеря ингредиентов у части рецептов после семейной синхронизации — восстанавливаются автоматически\n• Календарь готовки теперь синхронизируется между устройствами семьи\n• Изменения гарантированно уходят на сервер, даже если сразу свернуть приложение\n• Добавление блюда в календарь и предложения — теперь мгновенно\n• Стилизована карточка активной подписки\n• Больше плавных переходов вместо мгновенных скачков",
+  "en": "• Fixed lost ingredients on some recipes after family sync — they're restored automatically\n• The cooking calendar now syncs between family devices\n• Changes now reliably reach the server, even if you background the app right away\n• Adding a dish to the calendar or a proposal is now instant\n• Styled the active subscription card\n• More smooth transitions instead of instant jumps",
+  "ja": "・家族間の同期後に一部レシピの材料が失われる不具合を修正（自動的に復元されます）\n・調理カレンダーが家族の端末間で同期されるようになりました\n・アプリをすぐバックグラウンドにしても変更が確実にサーバーへ届くようになりました\n・カレンダーへの料理追加や提案の送信が即座に反映されます\n・アクティブなサブスクリプションカードのデザインを改善\n・急なジャンプの代わりに、より滑らかな画面遷移を追加"
+}

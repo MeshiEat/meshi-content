@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.3/meshi-1.1.3.apk",
-  "notes": "Экран «Что нового» теперь всегда показывает актуальный список изменений (раньше текст не обновлялся с версии 1.0.3).",
-  "sha256": "40823604ad968348882304e665b632ca7ae8bce56c48fc286c26977824d28a69"
+  "versionCode": 9,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.4/meshi-1.1.4.apk",
+  "notes": "Восстановлены ингредиенты блюд, потерянные у части пользователей при семейной синхронизации. Календарь готовки теперь тоже синхронизируется между устройствами семьи мгновенно.",
+  "sha256": "e4b57d439ad9b271a59de802667d2d286acd56a54f63f9f7c23cb2751c0cb602"
 }

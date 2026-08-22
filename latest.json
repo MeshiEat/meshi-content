@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.7/meshi-1.1.7.apk",
-  "notes": "Исправлено пропадание всего каталога зашитых блюд после переустановки — восстанавливается автоматически.",
-  "sha256": "e3e5c4cc849ea7b1d1120cb29bec35d50e8748531a130b4a3a0111a8064d2334"
+  "versionCode": 13,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.8/meshi-1.1.8.apk",
+  "notes": "Исправлены дубли зашитых блюд и потеря ингредиентов, оставшиеся после предыдущих ремонтов синхронизации.",
+  "sha256": "4c024ca496a825349e28e40df1cb2f0d34e37583e9bff65f00ab7fd4c3dd1154"
 }

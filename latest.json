@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.5/meshi-1.1.5.apk",
-  "notes": "Прогресс загрузки обновления теперь показывается прямо в приложении, без системного уведомления.",
-  "sha256": "065919f5d2c8336c3b06fc0c4a2b55fc1e1e5d8ed7674db080c31a09a83974ad"
+  "versionCode": 11,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.6/meshi-1.1.6.apk",
+  "notes": "Исправлен краш при скачивании обновления и пустой холодильник/блюда после входа на новом устройстве.",
+  "sha256": "0325cf61a0af6121aea56cac143af43f3a2dd33656a886f0efc2d8d5017500ee"
 }

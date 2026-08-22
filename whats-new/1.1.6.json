@@ -1,0 +1,5 @@
+{
+  "ru": "• Исправлен краш при нажатии «Скачать обновление»\n• Холодильник и блюда теперь появляются сами после входа в аккаунт на новой установке, без перезапуска",
+  "en": "• Fixed a crash when tapping \"Download update\"\n• Pantry and dishes now show up on their own after logging in on a new install, no restart needed",
+  "ja": "・「アップデートをダウンロード」タップ時のクラッシュを修正\n・新しいインストールでログイン後、再起動なしで冷蔵庫と料理が自動的に表示されるようになりました"
+}

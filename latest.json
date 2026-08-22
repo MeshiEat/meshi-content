@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.6/meshi-1.1.6.apk",
-  "notes": "Исправлен краш при скачивании обновления и пустой холодильник/блюда после входа на новом устройстве.",
-  "sha256": "0325cf61a0af6121aea56cac143af43f3a2dd33656a886f0efc2d8d5017500ee"
+  "versionCode": 12,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/MeshiEat/meshi-content/releases/download/v1.1.7/meshi-1.1.7.apk",
+  "notes": "Исправлено пропадание всего каталога зашитых блюд после переустановки — восстанавливается автоматически.",
+  "sha256": "e3e5c4cc849ea7b1d1120cb29bec35d50e8748531a130b4a3a0111a8064d2334"
 }
